@@ -2,10 +2,10 @@
 
 ###########################################################################################################
 # Source https://mailinabox.email/ https://github.com/mail-in-a-box/mailinabox                            #
-# Updated by Dirty Harry for crypto use...                                                                #
+# Updated by IdMineThat for crypto use...                                                                #
 # This script is intended to be run like this:                                                            #
 #                                                                                                         #
-#  curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash # 
+#  curl https://raw.githubusercontent.com/IdMineThat/Yiimp-Server-Installer/master/bootstrap.sh | bash # 
 #                                                                                                         #
 ###########################################################################################################
 
@@ -18,7 +18,7 @@ apt-get -q -q install -y git < /dev/null
 echo
 
 echo Downloading Yiimp Server Installer v1.0. . .
-git clone https://github.com/DirtyHarryDev/yiimp_server_setup "$HOME"/yiimpserver/install < /dev/null 2> /dev/null
+git clone https://github.com/IdMineThat/yiimp_server_setup "$HOME"/yiimpserver/install < /dev/null 2> /dev/null
 echo
 
 # Start setup script.
