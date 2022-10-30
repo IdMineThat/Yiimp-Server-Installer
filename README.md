@@ -1,10 +1,10 @@
-## Dirty Harry`s YiiMP Server Installer !
+## IdMineThat`s YiiMP Server Installer !
 
 ## This is opened as a public repo - all features are not final!
 
 All in one installer for your yiimp server.
 
-**Dirty Harry YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
+**IdMineThat YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
 
 * YiiMP
 
@@ -27,7 +27,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/IdMineThat/Yiimp-Server-Installer/master/bootstrap.sh | bash
 ```
 
 
@@ -211,6 +211,7 @@ The following GitHubs have been a source of inspiration and code:
 * [realeas-it](https://github.com/webpro/release-it)
 * [cryptopool.builders](https://github.com/cryptopool-builders)
 * [Kudaraidee](https://github.com/Kudaraidee)
+* [DirtyHarryDev](https://github.com/DirtyHarryDev)
 
 The following forks have been used in the making of the script:
 
@@ -226,4 +227,4 @@ The following forks have been used in the making of the script:
 
 Join our active discord channel:
 
-https://discord.gg/myUAcrgNfc
+https://discord.gg/V49CKA8b
